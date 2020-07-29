@@ -11,7 +11,7 @@ const About = () => {
                             <h2>About</h2>
                             <img src="img/lines.svg" className="img-lines" alt="lines" />
                             <p>Hello! I'm Hamid, a full stuck developer, a Python enthusiast, and a guy slighty obsessed for code quality. Also I'm a data analyst. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.</p>
-                            <a href="#" className="btn btn-fill" target="_blank" download>Download my cv</a>
+                            <a href="https://linkedin.com/in/hamid-goudarzi-m-eng-b11253163" className="btn btn-fill" target="_blank" download>Download my cv</a>
                         </div>
                     </div>
                 </div>
